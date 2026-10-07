@@ -146,10 +146,10 @@ My portfolio includes my projects, development work, and frontend experience.
 
 ## 📊 GitHub Stats
 
-![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asif-Khan1122\&show_icons=true\&theme=radical)
+![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=asifkhan-io\&show_icons=true\&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Asif-Khan1122\&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=asifkhan-io\&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
