@@ -54,8 +54,7 @@ Agentic workflows (tool use, multi-step agents), MCP, and production-ready full-
 
 ## 🤝 Connect
 
-🌐 [Portfolio](https://asifs.vercel.app/) · 💼 [LinkedIn](#) *(link add kar dein)*
+🌐 [Portfolio](https://asifs.vercel.app/) · 💼 [LinkedIn](#) *(https://www.linkedin.com/in/asif-khan-547105375/)*
 
 ---
 
-![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=asifkhan-io&show_icons=true&theme=radical&hide_border=true)
